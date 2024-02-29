@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Type.cpp
+  Chinh_C5_B12.cpp
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(34): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(36): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(44): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(58): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(67): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(73): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(75): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(89): warning C4309: 'argument': truncation of constant value
+c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(490): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(490): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(490): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\darktran\desktop\quanly\1.nopbai\ktlt\lop4\chinh_c5_b12+\chinh_c5_b12\chinh_c5_b12.cpp(490): note: this argument is used as a buffer size
+  Generating Code...
+  Chinh_C5_B12.vcxproj -> C:\Users\darktran\Desktop\QuanLy\1.NopBai\KTLT\Lop4\Chinh_C5_B12+\Debug\Chinh_C5_B12.exe
+  Chinh_C5_B12.vcxproj -> C:\Users\darktran\Desktop\QuanLy\1.NopBai\KTLT\Lop4\Chinh_C5_B12+\Debug\Chinh_C5_B12.pdb (Full PDB)
